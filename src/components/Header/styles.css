@@ -1,0 +1,10 @@
+.header-nav ul {
+  padding: 0px 20px;
+  margin: 0px;
+  list-style: none;
+}
+
+.header-nav ul li {
+  padding: 2px 8px;
+  display: inline-block;
+}
